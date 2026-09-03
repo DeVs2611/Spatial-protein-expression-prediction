@@ -326,7 +326,7 @@ MSc Computer Science
 University of Warwick
 
 [LinkedIn](
-www.linkedin.com/in/dev-srivastava-7477b1238) • [GitHub]([https://github.com/](https://github.com/DeVs2611))
+www.linkedin.com/in/dev-srivastava-7477b1238/)
 
 ## Academic Context
 

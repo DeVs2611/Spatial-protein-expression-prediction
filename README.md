@@ -325,9 +325,6 @@ Potential extensions include:
 MSc Computer Science
 University of Warwick
 
-[LinkedIn](
-www.linkedin.com/in/dev-srivastava-7477b1238/)
-
 ## Academic Context
 
 This repository contains machine-learning coursework completed as part of my MSc Computer Science studies at the **University of Warwick**.

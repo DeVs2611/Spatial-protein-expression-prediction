@@ -1,5 +1,7 @@
 # Spatial Protein Expression Prediction from Histology Images
 
+[**Explore the interactive case study**](https://devs2611.github.io/Spatial-protein-expression-prediction/) — methods, results, code, and an interactive spatial-expression atlas.
+
 Machine learning analysis of spatial protein-expression data and corresponding histology image patches using dimensionality reduction, statistical modelling, ensemble learning, and convolutional neural networks.
 
 This project explores whether visual patterns in tissue image patches can be used to understand and predict spatial protein expression across different biological specimens.
@@ -263,7 +265,7 @@ The cross-validation experiment demonstrates that prediction performance varies 
 ```text
 spatial-protein-expression-prediction/
 │
-├── ML_Assignment_2_Solutions.ipynb
+├── Notebook.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -288,7 +290,7 @@ pip install pandas numpy matplotlib scikit-learn scikit-image scipy statsmodels 
 Then open the notebook using Jupyter:
 
 ```bash
-jupyter notebook ML_Assignment_2_Solutions.ipynb
+jupyter notebook Notebook.ipynb
 ```
 
 The notebook was originally developed in a notebook environment with GPU support available for the PyTorch experiments.
